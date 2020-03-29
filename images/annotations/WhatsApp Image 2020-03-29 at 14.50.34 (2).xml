@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>WhatsApp Image 2020-03-29 at 14.50.34 (2).jpeg</filename>
+	<path>C:\Users\hdrhe\Downloads\windows_v1.8.0\images\WhatsApp Image 2020-03-29 at 14.50.34 (2).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>paper-crumpled</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>425</xmin>
+			<ymin>2</ymin>
+			<xmax>981</xmax>
+			<ymax>399</ymax>
+		</bndbox>
+	</object>
+</annotation>
